@@ -1,0 +1,19 @@
+/*заголовка */
+.header-title {
+    color: blue;
+    font-size: 24px;
+    border: 2px solid black;
+}
+/*параграф*/
+.paragraph-text {
+    color: green;
+    font-size: 18px;
+    border: 1px dashed gray;
+}
+/*цитата*/
+.blockquote-style {
+    color: darkred;
+    font-size: 16px;
+    border: 1px solid red;
+    padding: 10px;
+}
